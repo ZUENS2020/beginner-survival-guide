@@ -1,0 +1,5 @@
+{"repo":"mc-server-monitor","line":"面板可读服务器日志与玩家坐标。**公网暴露务必加认证**（Cloudflare Access、反向代理鉴权等）。详见 [SECURITY.md](SECURITY.md)。\n"}
+{"repo":"Sherpa","line":"  TRIAGE --> FH[\"fix-harness\"]\n"}
+{"repo":"Sherpa","line":"- `fix-harness`：只修 harness 侧缺陷。\n"}
+{"repo":"Sherpa","line":"- `crash-analysis`：对已复现 crash 做误报/真实 bug 分流，误报回 `plan`，否则停止并保留分析结果。\n"}
+{"repo":"Sherpa","line":"- `fix_build`、`fix_crash` 仍有兼容节点，但不是当前主线推荐路径。\n"}

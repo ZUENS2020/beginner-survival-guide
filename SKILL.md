@@ -267,4 +267,4 @@ HTTP/HTTPS 隧道需要泛域名解析。没有域名就老实用 TCP 隧道。
 ---
 
 _This skill is auto-maintained. Content distilled from public project experience._
-_Last refresh: 2026-07-03
+_Last refresh: 2026-07-04
